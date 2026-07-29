@@ -1,0 +1,36 @@
+.boxA {
+    height: 330px;
+    width: 300px;
+    margin-left: auto;
+    margin-right: auto;
+    border: rgb(202, 201, 201) 2px solid;
+    border-radius: 5px;
+    margin-top: 100px;
+}
+
+.signup {
+    width: 150;
+    height: 30px;
+    padding-left: 15px;
+    border: rgb(171, 171, 171) 1px solid;
+    border-radius: 5px;
+    margin-left: 70px;
+    margin-top: 0;
+}
+
+.submitA {
+    width: 80px;
+    height: 25px;
+    background-color: rgb(72, 72, 232);
+    border: 1px rgb(129, 129, 222) solid;
+    box-shadow: none;
+    border-radius: 5px;
+    margin-left: 70px;
+    margin-top: 20px;
+}
+.titleA{
+    text-align: right;
+    direction: rtl;
+    font-size: 16px;
+    margin-right: 60px;
+}
