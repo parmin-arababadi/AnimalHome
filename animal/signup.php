@@ -36,7 +36,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
             <input type="text" id="type" name="type" class="signup" placeholder="نوع حیوان را وارد کنید">
             <label for="type"></label>
             <P class="titleA">سن حیوان</P>
-            <input type="year" id="age" name="age" class="signup" placeholder="سن حیوان را وارد کنید">
+            <input type="date" id="age" name="age" class="signup" placeholder="سن حیوان را وارد کنید">
             <label for="age"></label>
             <input type="submit" id="submit" name="submit" class="submitA" value="ثبت">
             <label for="submit"></label>

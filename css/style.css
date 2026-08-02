@@ -28,9 +28,79 @@
     margin-left: 70px;
     margin-top: 20px;
 }
-.titleA{
+
+.titleA {
     text-align: right;
     direction: rtl;
     font-size: 16px;
     margin-right: 60px;
+}
+
+.tableA table {
+    width: 600px;
+    height: 200px;
+    border: black 1px solid;
+    border-collapse: collapse;
+}
+
+.tableA th {
+    border-bottom: black 1px solid;
+    padding-right: 10px;
+    border-right: black 1px solid;
+}
+
+.tableA td {
+    border-bottom: black 1px solid;
+    padding-right: 10px;
+    border-right: black 1px solid;
+}
+
+.tableA table,
+th,
+td,
+tr {
+    text-align: center;
+    justify-content: center;
+    margin-top: 30px;
+    margin-right: 10px;
+    margin-left: auto;
+    border-collapse: collapse;
+}
+
+.submitB {
+    width: 80px;
+    height: 25px;
+    background-color: rgb(72, 72, 232);
+    border: 1px rgb(129, 129, 222) solid;
+    box-shadow: none;
+    margin-left: 1165px;
+    margin-top: 20px;
+    border-radius: 5px;
+}
+
+.form {
+    width: 200px;
+    height: 30px;
+    margin-left: 1050px;
+    margin-top: 10px;
+    border: 1px rgb(129, 129, 222) solid;
+    border-radius: 5px;
+    padding-left: 45px;
+}
+
+.personsignup {
+    width: 150;
+    height: 30px;
+    padding-left: 15px;
+    border: rgb(171, 171, 171) 1px solid;
+    border-radius: 5px;
+    margin-left: 1100px;
+    padding-right: 0px;
+}
+
+.titleB {
+    text-align: right;
+    direction: rtl;
+    font-size: 16px;
+    margin-bottom: 0px;
 }
